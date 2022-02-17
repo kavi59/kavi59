@@ -1,7 +1,7 @@
 <h1 align="center">Namaste 👋, I'm Kavi Sharma!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavi59&label=Profile%20views&color=129e00&style=plastic" alt="kavi59" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ed6aee74b1b8c61b67dbbf50a6a8a0f1e9bcbea4e2db7eff11414aca35b028c0/68747470733a2f2f7374617469632e6472696262626c652e636f6d2f75736572732f313932303334382f73637265656e73686f74732f343333323634312f73686f7430392e676966">
 
 - 🔭 I’m currently working on **CodeChain**.
 - 🌱 I’m currently learning NodeJS.
