@@ -1,4 +1,4 @@
-### Hi there 👋
+### Namaste, I'm Kavi! 👋
 
 - 🔭 I’m currently working on CodeChain.
 - 🌱 I’m currently learning NodeJS.
