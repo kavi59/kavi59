@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on **CodeChain**.
 - 🌱 I’m currently learning NodeJS.
 - 💬 Ask me about web development or any tech related stuff.
+- 📫 How to reach me **sharma.kavi59@gmail.com**.
 - ⚡ Fun fact: **I find it cool when people think I'm funny**.
 
 <h3 align="left">Connect with me:</h3>
