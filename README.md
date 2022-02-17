@@ -1,4 +1,4 @@
-### Namaste 👋, I'm Kavi Sharma!
+<h1 align="center">Namaste 👋, I'm Kavi Sharma!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavi59&label=Profile%20views&color=129e00&style=plastic" alt="kavi59" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
